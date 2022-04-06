@@ -1,0 +1,14 @@
+.formulario {
+    text-align:center;
+    justify-content:center;
+}
+
+.formulario button{
+    width:100%;
+}
+
+
+.form-group input{
+    text-align:center;
+    justify-content:center;
+}
